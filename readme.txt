@@ -1,4 +1,4 @@
-== House of Nancy ==
+== Boilerplate ==
 
 Contributors: P. E. A.
 Requires at least: 7.1
@@ -21,8 +21,8 @@ Custom block theme
 
 == Copyright ==
 
-House of Nancy WordPress Theme, (C) 2026 P. E. A.
-House of Nancy is distributed under the terms of the GNU GPL.
+Boilerplate WordPress Theme, (C) 2026 P. E. A.
+Boilerplate is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -35,5 +35,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 
-House of Nancy is based on Twenty Twenty-Five (https://wordpress.org/themes/twentytwentyfive/), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+Boilerplate is based on Twenty Twenty-Five (https://wordpress.org/themes/twentytwentyfive/), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
